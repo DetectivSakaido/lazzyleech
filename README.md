@@ -21,7 +21,7 @@
 This is a telegram bot writen with pyrogram for leeching files on the internet to Telegram.
 
 [Bot Demo](https://t.me/joinchat/I0r_UQNiPHdlYWFl)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shiva20991/lazzyleech)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DetectivSakaido/lazzyleech)
 # WebUI
 # Features
 - Leeching direct download links | Torrent | Magnets.
